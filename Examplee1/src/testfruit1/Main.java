@@ -26,7 +26,7 @@ public class Main {
 		Banana banana = new Banana(10);
 		System.out.println(banana);
 		
-		// note be careful  > It's not  string a being equal to string b. 
+		// note be careful   > It's not  string a being equal to string b.      / test
 		//                  > it is reference a equal to reference b        // reference keep address
 //		String a = "test";
 //		String b = new String("test");
